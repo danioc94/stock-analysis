@@ -1,7 +1,7 @@
 # Stock Analysis using VBA
 
 ## Overview of Project
-The main goal of this project is to analyze stock data of 11 different companies from the years 2017 and 2018 using VBA as a developing tool. We also compare time performance between original scripts and refactored code.
+The main goal of this project is to analyze stock data of 11 different companies from the years 2017 and 2018 and further calcuate overall daily returns the using VBA as a developing tool. We also compare time performance between original developed script through class and a refactored version implemented during this challange.
 
 ## Results
 Stock Performance 2017
